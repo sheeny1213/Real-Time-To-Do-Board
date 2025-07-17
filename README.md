@@ -49,12 +49,12 @@ A web-based collaborative to-do board where multiple users can log in, manage ta
 
 ## Deployment Links
 - **Frontend (Vercel):** [frontend.vercel.app]()
-- **Backend (Render):** [backend.onrender.com]()
+- **Backend (Render):** [backend.onrender.com](https://real-time-to-do-board-1.onrender.com)
 - **Demo Video:** [Loom Demo]()
-- **Logic Document:** [Logic_Document.md](./Logic_Document.md)
+- **Logic Document:** [Logic_Document.md](https://drive.google.com/file/d/17C3qbwiRi6wcC3ac22q4payYNHv5ayYs/view?usp=drive_link)
 
 ## Smart Assign & Conflict Handling
-- **Smart Assign:** Automatically assigns a task to the user with the fewest active tasks. See [Logic_Document.md](./Logic_Document.md) for details.
+- **Smart Assign:** Automatically assigns a task to the user with the fewest active tasks. See [Logic_Document.md](https://drive.google.com/file/d/17C3qbwiRi6wcC3ac22q4payYNHv5ayYs/view?usp=drive_link) for details.
 - **Conflict Handling:** If two users edit the same task at the same time, both versions are shown and users can choose to merge or overwrite.
 
 ## License
