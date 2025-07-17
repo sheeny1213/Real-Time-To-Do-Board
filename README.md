@@ -48,8 +48,8 @@ A web-based collaborative to-do board where multiple users can log in, manage ta
 - Resolve conflicts using the provided UI.
 
 ## Deployment Links
-- **Frontend (Vercel):** [frontend.vercel.app]()
-- **Backend (Render):** [backend.onrender.com](https://real-time-to-do-board-1.onrender.com)
+- **Frontend (Vercel):** [frontend.vercel.app](https://real-time-to-do-board-frontend.vercel.app/)
+- **Backend (Render):** [backend.onrender.com](https://real-time-todo-g0xb.onrender.com)
 - **Demo Video:** [Loom Demo]()
 - **Logic Document:** [Logic_Document.md](https://drive.google.com/file/d/17C3qbwiRi6wcC3ac22q4payYNHv5ayYs/view?usp=drive_link)
 
